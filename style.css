@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: white;
 }
 
 #header
 {
-	background: #ccc;
+	background: #6495ED;
 	padding: 20px;
 }
 
@@ -52,9 +52,9 @@
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
-	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#8A2BE2));
+	background-image: -webkit-linear-gradient(left, #d6e1ff, #8A2BE2);
+	background-image: linear-gradient(left, #d6e1ff, #8A2BE2);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
@@ -77,9 +77,9 @@
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
-	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#8A2BE2));
+	background-image: -webkit-linear-gradient(left, #d6e1ff, #8A2BE2);
+	background-image: linear-gradient(left, #d6e1ff, #8A2BE2);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
@@ -88,7 +88,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #6495ED;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
